@@ -1,0 +1,2 @@
+1)To install date-fns
+  npm install date-fns --save
